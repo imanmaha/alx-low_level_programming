@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
 /**
  * main Entry - point
  * Description: 'get the last digit of a number'
