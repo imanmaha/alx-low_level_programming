@@ -2,6 +2,15 @@
 
 int main(void)
 {
+/*
+
+ * This is the main function.
+ * It serves as the entry point of the program.
+ *
+ * Add your code here to define the behavior of the program.
+ *
+ * Return 0 to indicate successful program execution.
+ */
 	int n;
 	int a[5];
 	int *p;
